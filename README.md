@@ -1,5 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/UGrpkMXipFWQ06IHIM/giphy.gif" width="200"/>
+</div>
 - 👋 Hi, I’m @deankale
-- 👀 I’m interested in Music, Technology, and creating products that inspire and entertain.
+- 👀 I’m interested in Music, Technology, Science, Design and ideating product designs that help people solve problems.
+- 👨🏽‍🔬 I work in a lab, 
 - 🌱 I’m currently learning how to make cool internet things all day long and get paid for it. I hope to one day quit my day-job and live out my life comfortably as a content creator.
 - 💞️ I’m looking to collaborate on web apps or music production tools (via MAX for Live or Python)
 - 📫 How to reach me ...
